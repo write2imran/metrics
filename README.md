@@ -1,2 +1,1 @@
-# metrics
-Metrics API Project
+# metrics-hunza
